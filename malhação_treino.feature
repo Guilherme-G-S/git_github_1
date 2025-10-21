@@ -1,0 +1,1 @@
+Dado ('Que estou na academia e quero começar meu treino')
