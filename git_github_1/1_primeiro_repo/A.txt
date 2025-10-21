@@ -1,5 +1,0 @@
-Olá esse e o arquivo de usarei para utilizar o comando git pull, atualizando meu repo local com o remoto via command line.
-
-Alteração de txt para realizar o pull
-
-Alterando do clone
