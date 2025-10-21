@@ -1,0 +1,1 @@
+Dado ('Quero começar a treinar')
